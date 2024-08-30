@@ -7,11 +7,7 @@ Asteroid Game is a classic arcade-style game built using the open-source Pygame 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
-- [FAQ](#faq)
 
 ## Installation
 1. Clone the repository:
@@ -43,11 +39,10 @@ Asteroid Game is a classic arcade-style game built using the open-source Pygame 
 3. Press the spacebar to shoot.
 
 ## Features
-- Real-time asteroid field generation
-- Player-controlled spaceship
-- Shooting mechanics
-- Collision detection
-<!-- Create a TODO list -->
+- [x] Real-time asteroid field generation
+- [x] Player-controlled spaceship
+- [x] Shooting mechanics
+- [x] Collision detection
 - [ ] Add sound effects
 - [ ] Add a scoring system
 - [ ] Implement multiple lives and respawning
